@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car_id: 
+  last_servicing_date: 
+  repair_part: 
+
+two:
+  car_id: 
+  last_servicing_date: 
+  repair_part: 

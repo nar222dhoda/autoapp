@@ -1,0 +1,3766 @@
+I, [2016-02-12T16:50:30.600500 #7607]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T16:50:30.625995 #7608]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T16:50:36.341420 #7632]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T16:52:36.974955 #7681]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T16:52:37.013140 #7679]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:00:27.753850 #7846]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:01:45.913994 #7880]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:02:09.000322 #7895]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:02:14.660320 #7904]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:04:04.413810 #8164]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:04:04.472995 #8162]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:04:14.957599 #8185]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:04:15.004206 #8186]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:04:54.561250 #8236]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:04:54.657624 #8234]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:05:08.885424 #8303]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:06:18.964780 #8376]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:06:26.528634 #8392]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:07:19.719338 #8496]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:08:54.356293 #8581]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T17:09:18.680583 #8674]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:17:55.573489 #10725]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:20:50.313311 #10851]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:20:55.580617 #10864]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:21:12.861463 #10878]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:39:50.363768 #11401]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:39:50.530426 #11400]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:40:08.706967 #11451]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:40:08.790869 #11452]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:47:37.046185 #11568]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T19:58:00.075498 #12275]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T20:02:37.892729 #12574]  INFO -- : sending email to : vijaytest0@yopmail.com
+I, [2016-02-12T20:02:37.894361 #12574]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:02:34 +0530
+From: from@example.com
+To: vijaytest0@yopmail.com
+Message-ID: <56bded0244da5_311e412d8f2845c6@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:07:05.670813 #14081]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T20:07:11.118362 #14285]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T20:08:05.600416 #14760]  INFO -- : sending email to : vijaytest0@yopmail.com
+I, [2016-02-12T20:08:05.601944 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:01 +0530
+From: from@example.com
+To: vijaytest0@yopmail.com
+Message-ID: <56bdee49bae18_39a846f78f0614cd@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:09.159837 #14760]  INFO -- : sending email to : vijaytest0@yopmail.com
+I, [2016-02-12T20:08:09.161221 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:05 +0530
+From: from@example.com
+To: vijaytest0@yopmail.com
+Message-ID: <56bdee4d950fb_39a846f78f061518@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:12.840267 #14760]  INFO -- : sending email to : vijaytest0@yopmail.com
+I, [2016-02-12T20:08:12.841786 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:09 +0530
+From: from@example.com
+To: vijaytest0@yopmail.com
+Message-ID: <56bdee512b62c_39a846f78f061684@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:16.451155 #14760]  INFO -- : sending email to : vijaytest1@yopmail.com
+I, [2016-02-12T20:08:16.452601 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:12 +0530
+From: from@example.com
+To: vijaytest1@yopmail.com
+Message-ID: <56bdee54d2058_39a846f78f061770@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:20.074269 #14760]  INFO -- : sending email to : vijaytest1@yopmail.com
+I, [2016-02-12T20:08:20.075163 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:16 +0530
+From: from@example.com
+To: vijaytest1@yopmail.com
+Message-ID: <56bdee58722b9_39a846f78f06183a@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:23.598334 #14760]  INFO -- : sending email to : vijaytest2@yopmail.com
+I, [2016-02-12T20:08:23.599775 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:20 +0530
+From: from@example.com
+To: vijaytest2@yopmail.com
+Message-ID: <56bdee5c16393_39a846f78f061928@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:27.041331 #14760]  INFO -- : sending email to : vijaytest2@yopmail.com
+I, [2016-02-12T20:08:27.042096 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:23 +0530
+From: from@example.com
+To: vijaytest2@yopmail.com
+Message-ID: <56bdee5f94c72_39a846f78f0620d4@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:30.593532 #14760]  INFO -- : sending email to : vijaytest2@yopmail.com
+I, [2016-02-12T20:08:30.594860 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:27 +0530
+From: from@example.com
+To: vijaytest2@yopmail.com
+Message-ID: <56bdee63d0b8_39a846f78f06211d@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:34.055734 #14760]  INFO -- : sending email to : vijaytest2@yopmail.com
+I, [2016-02-12T20:08:34.056829 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:30 +0530
+From: from@example.com
+To: vijaytest2@yopmail.com
+Message-ID: <56bdee669496d_39a846f78f062212@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:37.473779 #14760]  INFO -- : sending email to : vijaytest3@yopmail.com
+I, [2016-02-12T20:08:37.475241 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:34 +0530
+From: from@example.com
+To: vijaytest3@yopmail.com
+Message-ID: <56bdee6a11b92_39a846f78f0623f0@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:40.939598 #14760]  INFO -- : sending email to : vijaytest4@yopmail.com
+I, [2016-02-12T20:08:40.940225 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:37 +0530
+From: from@example.com
+To: vijaytest4@yopmail.com
+Message-ID: <56bdee6d76cb2_39a846f78f0624dc@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:44.378664 #14760]  INFO -- : sending email to : vijaytest4@yopmail.com
+I, [2016-02-12T20:08:44.379768 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:40 +0530
+From: from@example.com
+To: vijaytest4@yopmail.com
+Message-ID: <56bdee70e729d_39a846f78f06255a@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:47.950326 #14760]  INFO -- : sending email to : vijaytest4@yopmail.com
+I, [2016-02-12T20:08:47.950845 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:44 +0530
+From: from@example.com
+To: vijaytest4@yopmail.com
+Message-ID: <56bdee745ff2d_39a846f78f06266d@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:51.432898 #14760]  INFO -- : sending email to : vijaytest4@yopmail.com
+I, [2016-02-12T20:08:51.433571 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:47 +0530
+From: from@example.com
+To: vijaytest4@yopmail.com
+Message-ID: <56bdee77e9dd3_39a846f78f062794@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:54.818390 #14760]  INFO -- : sending email to : vijaytest5@yopmail.com
+I, [2016-02-12T20:08:54.819039 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:51 +0530
+From: from@example.com
+To: vijaytest5@yopmail.com
+Message-ID: <56bdee7b6bb1a_39a846f78f062869@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:08:58.427242 #14760]  INFO -- : sending email to : vijaytest5@yopmail.com
+I, [2016-02-12T20:08:58.428651 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:54 +0530
+From: from@example.com
+To: vijaytest5@yopmail.com
+Message-ID: <56bdee7ecade3_39a846f78f062970@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 8 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 8
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:09:02.421481 #14760]  INFO -- : sending email to : vijaytest6@yopmail.com
+I, [2016-02-12T20:09:02.422901 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:08:58 +0530
+From: from@example.com
+To: vijaytest6@yopmail.com
+Message-ID: <56bdee826bd64_39a846f78f063022@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:09:06.302289 #14760]  INFO -- : sending email to : vijaytest7@yopmail.com
+I, [2016-02-12T20:09:06.303122 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:09:02 +0530
+From: from@example.com
+To: vijaytest7@yopmail.com
+Message-ID: <56bdee866975c_39a846f78f0631f5@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:09:10.300244 #14760]  INFO -- : sending email to : vijaytest7@yopmail.com
+I, [2016-02-12T20:09:10.301001 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:09:06 +0530
+From: from@example.com
+To: vijaytest7@yopmail.com
+Message-ID: <56bdee8a4d259_39a846f78f0632fa@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:09:14.365026 #14760]  INFO -- : sending email to : vijaytest8@yopmail.com
+I, [2016-02-12T20:09:14.365502 #14760]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:09:10 +0530
+From: from@example.com
+To: vijaytest8@yopmail.com
+Message-ID: <56bdee8e4b772_39a846f78f0633b1@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test8 8secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:09:49.298035 #14884]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T20:12:01.800615 #15068]  INFO -- : BODY:test
+I, [2016-02-12T20:12:06.063883 #15068]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-12T20:12:06.064365 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:02 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56bdef3aafa6_3adc46f78f0614d4@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:10.166842 #15068]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-12T20:12:10.167770 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:06 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56bdef3e114b3_3adc46f78f0615f6@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:14.190489 #15068]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-12T20:12:14.191020 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:10 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56bdef422b302_3adc46f78f0616e5@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:18.048766 #15068]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-12T20:12:18.049996 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:14 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56bdef463074e_3adc46f78f06173@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:22.387834 #15068]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-12T20:12:22.388308 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:18 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56bdef4af953_3adc46f78f0618c5@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:26.847916 #15068]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-12T20:12:26.848390 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:22 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56bdef4e605e2_3adc46f78f061980@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:31.312987 #15068]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-12T20:12:31.313626 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:26 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56bdef52d0922_3adc46f78f0620a4@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:35.767553 #15068]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-12T20:12:35.768032 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:31 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56bdef574effe_3adc46f78f0621e1@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:39.893648 #15068]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-12T20:12:39.894160 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:35 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56bdef5bbd33f_3adc46f78f062280@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:43.966676 #15068]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-12T20:12:43.967144 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:39 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56bdef5fdc04b_3adc46f78f0623d4@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:48.004044 #15068]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-12T20:12:48.004597 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:43 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56bdef63edcaf_3adc46f78f062464@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:51.997154 #15068]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-12T20:12:51.997787 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:48 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56bdef68315d_3adc46f78f06251d@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:12:56.030821 #15068]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-12T20:12:56.031341 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:52 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56bdef6c26cd_3adc46f78f062683@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 8 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 8
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:00.035433 #15068]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-12T20:13:00.035972 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:12:56 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56bdef70a0b3_3adc46f78f062766@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:04.023287 #15068]  INFO -- : sending email to : vijaycho6@yopmail.com
+I, [2016-02-12T20:13:04.023789 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:00 +0530
+From: from@example.com
+To: vijaycho6@yopmail.com
+Message-ID: <56bdef74c2e7_3adc46f78f06282a@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:07.948982 #15068]  INFO -- : sending email to : vijaycho6@yopmail.com
+I, [2016-02-12T20:13:07.949491 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:04 +0530
+From: from@example.com
+To: vijaycho6@yopmail.com
+Message-ID: <56bdef787a7c_3adc46f78f0629e6@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:11.965210 #15068]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-12T20:13:11.965696 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:07 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56bdef7bea43a_3adc46f78f06309@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:15.873563 #15068]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-12T20:13:15.874174 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:11 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56bdef7feddde_3adc46f78f0631f9@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:19.792713 #15068]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-12T20:13:19.793266 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:15 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56bdef83d7db4_3adc46f78f0632ca@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: red
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:23.963487 #15068]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-12T20:13:23.964903 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:19 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56bdef87c3d5c_3adc46f78f063359@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 8 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 8
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:27.731192 #15068]  INFO -- : sending email to : vijaycho8@yopmail.com
+I, [2016-02-12T20:13:27.732587 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:23 +0530
+From: from@example.com
+To: vijaycho8@yopmail.com
+Message-ID: <56bdef8beec03_3adc46f78f063466@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test8 8secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:13:31.481512 #15068]  INFO -- : sending email to : vijaycho9@yopmail.com
+I, [2016-02-12T20:13:31.482220 #15068]  INFO -- : BODY: Date: Fri, 12 Feb 2016 20:13:27 +0530
+From: from@example.com
+To: vijaycho9@yopmail.com
+Message-ID: <56bdef8fb4933_3adc46f78f063589@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test9 9secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+  Last Servicing Date: 2016-01-13
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-12T20:28:11.254854 #15364]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-12T20:28:11.312780 #15366]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T13:49:25.391045 #2768]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T14:05:08.013450 #3445]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T14:08:08.941283 #3771]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T14:10:03.233254 #3845]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T14:22:29.796109 #4191]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T14:23:06.070700 #4215]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T14:57:28.819828 #4782]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T15:39:34.713443 #5141]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T15:46:10.132339 #5212]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T15:49:58.699416 #5319]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T15:50:12.659375 #5333]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T16:20:30.493228 #4788]  INFO -- : BODY:test
+I, [2016-02-15T16:21:14.565506 #4788]  INFO -- : BODY:test
+I, [2016-02-15T16:23:41.029748 #4788]  INFO -- : BODY:test
+I, [2016-02-15T16:26:10.597796 #4788]  INFO -- : BODY:test
+I, [2016-02-15T16:26:44.933502 #4788]  INFO -- : BODY:test
+I, [2016-02-15T16:26:51.167801 #4788]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:26:51.169383 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:26:46 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1aeee7166b_12b450178ea690be@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:26:55.083261 #4788]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:26:55.084793 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:26:51 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1aef32e000_12b450178ea69113@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:26:58.543919 #4788]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:26:58.545477 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:26:55 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1aef718cad_12b450178ea69253@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:02.242764 #4788]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:27:02.244214 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:26:58 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1aefa882a9_12b450178ea69381@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:06.012465 #4788]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:27:06.013995 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:02 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1aefe40590_12b450178ea6944@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:09.548850 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:09.549361 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:06 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af027c06_12b450178ea695b5@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:13.239469 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:13.241001 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:09 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af0587c5e_12b450178ea6965a@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:16.749310 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:16.750895 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:13 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af093ea4e_12b450178ea697dd@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:20.339462 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:20.340916 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:16 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af0cba5f8_12b450178ea69866@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:23.875551 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:23.877006 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:20 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af1057e8b_12b450178ea6991c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:27.547999 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:27.549501 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:23 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af13d97ea_12b450178ea70042@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:31.039529 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:31.041063 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:27 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af1789201_12b450178ea7015c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:34.641613 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:34.643150 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:31 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af1bd6ad_12b450178ea702e6@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:38.065977 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:38.067420 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:34 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af1ea1e35_12b450178ea70380@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 8 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 8
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:41.571201 #4788]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:27:41.571691 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:38 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1af2214726_12b450178ea704b5@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 9 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 9
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:45.534586 #4788]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-15T16:27:45.536076 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:41 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56c1af258dd1c_12b450178ea705a8@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:48.970816 #4788]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-15T16:27:48.972348 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:45 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56c1af2985c2b_12b450178ea706ae@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:52.664780 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:27:52.666346 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:48 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af2cf231e_12b450178ea7078f@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:27:56.263382 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:27:56.264845 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:52 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af30a5ef7_12b450178ea708a4@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:00.131217 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:28:00.132678 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:27:56 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af3443fe1_12b450178ea709ec@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:03.697339 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:28:03.698896 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:00 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af3823171_12b450178ea7104@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:07.133137 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:28:07.134648 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:03 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af3bad189_12b450178ea711ac@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:10.664077 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:28:10.665611 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:07 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af3f23bf4_12b450178ea7128e@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:14.145957 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:28:14.147516 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:10 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af42a5785_12b450178ea713f@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:17.748082 #4788]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:28:17.749583 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:14 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1af4627349_12b450178ea714ec@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:21.397730 #4788]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-15T16:28:21.399095 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:17 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56c1af49bb7ba_12b450178ea715bc@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:25.030945 #4788]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-15T16:28:25.032465 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:21 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56c1af4d65741_12b450178ea71653@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:28.444049 #4788]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T16:28:28.445566 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:25 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1af51a6cf_12b450178ea71748@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:32.000834 #4788]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T16:28:32.002365 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:28 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1af5470c40_12b450178ea71860@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:35.496240 #4788]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T16:28:35.498142 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:32 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1af585a7b_12b450178ea719c1@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:39.109329 #4788]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T16:28:39.111532 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:35 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1af5b7dc92_12b450178ea72079@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:42.926286 #4788]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T16:28:42.927749 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:39 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1af5f1dcd4_12b450178ea721c2@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:46.569994 #4788]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T16:28:46.571501 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:42 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1af62e6f59_12b450178ea722e8@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:50.080915 #4788]  INFO -- : sending email to : vijaycho6@yopmail.com
+I, [2016-02-15T16:28:50.082856 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:46 +0530
+From: from@example.com
+To: vijaycho6@yopmail.com
+Message-ID: <56c1af668e7e4_12b450178ea72312@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:53.608351 #4788]  INFO -- : sending email to : vijaycho6@yopmail.com
+I, [2016-02-15T16:28:53.609397 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:50 +0530
+From: from@example.com
+To: vijaycho6@yopmail.com
+Message-ID: <56c1af6a17fb1_12b450178ea7244a@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:28:57.162089 #4788]  INFO -- : sending email to : vijaycho6@yopmail.com
+I, [2016-02-15T16:28:57.163661 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:53 +0530
+From: from@example.com
+To: vijaycho6@yopmail.com
+Message-ID: <56c1af6d97ea9_12b450178ea7251e@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:00.609888 #4788]  INFO -- : sending email to : vijaycho6@yopmail.com
+I, [2016-02-15T16:29:00.611346 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:28:57 +0530
+From: from@example.com
+To: vijaycho6@yopmail.com
+Message-ID: <56c1af712ad92_12b450178ea7265b@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test6 6secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:04.166473 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:04.168161 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:00 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af749a635_12b450178ea727d0@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:07.746161 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:07.746832 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:04 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af782d40a_12b450178ea7287d@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:11.172912 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:11.174397 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:07 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af7bb8cb2_12b450178ea7291f@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:15.032233 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:15.034001 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:11 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af7f2ee06_12b450178ea7305@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:18.813129 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:18.814607 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:15 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af83b91e_12b450178ea7319e@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:22.441305 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:22.442856 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:18 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af86c9daf_12b450178ea732e5@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:26.150478 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:26.152145 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:22 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af8a6e339_12b450178ea733e2@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:29.755912 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:29.757408 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:26 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af8e28d9c_12b450178ea7348c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:33.485528 #4788]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T16:29:33.486982 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:29 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1af91bc2a5_12b450178ea7357c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 8 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 8
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:36.989188 #4788]  INFO -- : sending email to : vijaycho8@yopmail.com
+I, [2016-02-15T16:29:36.990757 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:33 +0530
+From: from@example.com
+To: vijaycho8@yopmail.com
+Message-ID: <56c1af957a51a_12b450178ea73630@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test8 8secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:40.563377 #4788]  INFO -- : sending email to : vijaycho9@yopmail.com
+I, [2016-02-15T16:29:40.564935 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:37 +0530
+From: from@example.com
+To: vijaycho9@yopmail.com
+Message-ID: <56c1af9915d7_12b450178ea73750@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test9 9secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:44.094587 #4788]  INFO -- : sending email to : vijaycho9@yopmail.com
+I, [2016-02-15T16:29:44.096033 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:40 +0530
+From: from@example.com
+To: vijaycho9@yopmail.com
+Message-ID: <56c1af9c8de99_12b450178ea738d8@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test9 9secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:47.704457 #4788]  INFO -- : sending email to : vijaycho9@yopmail.com
+I, [2016-02-15T16:29:47.706052 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:44 +0530
+From: from@example.com
+To: vijaycho9@yopmail.com
+Message-ID: <56c1afa01aaf3_12b450178ea739f9@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test9 9secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:51.360312 #4788]  INFO -- : sending email to : vijaycho9@yopmail.com
+I, [2016-02-15T16:29:51.360977 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:47 +0530
+From: from@example.com
+To: vijaycho9@yopmail.com
+Message-ID: <56c1afa3b0291_12b450178ea740cf@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test9 9secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:29:55.501968 #4788]  INFO -- : sending email to : vijaycho9@yopmail.com
+I, [2016-02-15T16:29:55.503423 #4788]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:29:51 +0530
+From: from@example.com
+To: vijaycho9@yopmail.com
+Message-ID: <56c1afa75a7f8_12b450178ea741a0@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test9 9secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: white
+
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:30:41.117731 #4788]  INFO -- : BODY:test
+I, [2016-02-15T16:32:11.494255 #6346]  INFO -- : BODY:test
+I, [2016-02-15T16:32:52.153412 #6346]  INFO -- : BODY:test
+I, [2016-02-15T16:36:03.316273 #6490]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T16:36:03.672422 #6504]  INFO -- : sending email to : #<CouponDate::ActiveRecord_Relation:0xae9dbbc>
+I, [2016-02-15T16:36:03.675495 #6504]  INFO -- : coupon_dates count: 5
+I, [2016-02-15T16:36:09.552824 #6504]  INFO -- : BODY: <html>
+  <body>
+    <p>
+Welcome,
+</p>
+<p>
+You have recieved one offer coupon:
+</p>
+<p>
+Test Coupon description 0
+</p>
+<p>
+AROWNNWJAHXWCQOB
+</p>
+  </body>
+</html>
+
+I, [2016-02-15T16:36:16.029258 #6504]  INFO -- : BODY: <html>
+  <body>
+    <p>
+Welcome,
+</p>
+<p>
+You have recieved one offer coupon:
+</p>
+<p>
+Test Coupon description 0
+</p>
+<p>
+AROWNNWJAHXWCQOB
+</p>
+  </body>
+</html>
+
+I, [2016-02-15T16:36:19.822689 #6346]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:36:19.824264 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:16 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1b12832f51_18ca50178ea690d@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:36:22.046410 #6504]  INFO -- : BODY: <html>
+  <body>
+    <p>
+Welcome,
+</p>
+<p>
+You have recieved one offer coupon:
+</p>
+<p>
+Test Coupon description 0
+</p>
+<p>
+AROWNNWJAHXWCQOB
+</p>
+  </body>
+</html>
+
+I, [2016-02-15T16:36:25.738621 #6346]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:36:25.740182 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:21 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1b12db2f17_18ca50178ea6916@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:36:27.373355 #6504]  INFO -- : BODY: <html>
+  <body>
+    <p>
+Welcome,
+</p>
+<p>
+You have recieved one offer coupon:
+</p>
+<p>
+Test Coupon description 0
+</p>
+<p>
+VIYEKSCZGXAM
+</p>
+  </body>
+</html>
+
+I, [2016-02-15T16:36:30.902389 #6346]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:36:30.903886 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:27 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1b1335afcc_18ca50178ea69284@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: green
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:36:32.701424 #6504]  INFO -- : BODY: <html>
+  <body>
+    <p>
+Welcome,
+</p>
+<p>
+You have recieved one offer coupon:
+</p>
+<p>
+Test Coupon description 0
+</p>
+<p>
+VQLZGVJDF
+</p>
+  </body>
+</html>
+
+I, [2016-02-15T16:36:37.387326 #6346]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:36:37.388792 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:33 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1b139d40ba_18ca50178ea6932f@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: red
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:36:42.478717 #6346]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T16:36:42.480262 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:38 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1b13ec872a_18ca50178ea694a6@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: red
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:36:48.343481 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:36:48.344946 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:44 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b14478823_18ca50178ea695cd@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:36:54.799234 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:36:54.800723 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:51 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b14b3d74e_18ca50178ea6969c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:00.696776 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:00.698294 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:36:57 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b151264b6_18ca50178ea69773@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: white
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:10.475402 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:10.476881 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:06 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b15ad2c14_18ca50178ea698e0@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 3 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 3
+  Color: green
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:28.411779 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:28.413358 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:24 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b16c3429d_18ca50178ea69968@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: white
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:33.218978 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:33.220529 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:29 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b17147821_18ca50178ea700d0@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 5 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 5
+  Color: white
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:37.792754 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:37.794269 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:34 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b17618d1d_18ca50178ea70137@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 6 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 6
+  Color: green
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:42.635623 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:42.637159 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:38 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b17ad24c5_18ca50178ea7026c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: white
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:47.318349 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:47.319986 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:43 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b17f5a5ae_18ca50178ea70366@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 8 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 8
+  Color: red
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:37:52.036319 #6346]  INFO -- : sending email to : vijaycho1@yopmail.com
+I, [2016-02-15T16:37:52.037836 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:48 +0530
+From: from@example.com
+To: vijaycho1@yopmail.com
+Message-ID: <56c1b1845a89a_18ca50178ea70484@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test1 1secomd,
+
+<p>We would like to inform you that your car model: model 9 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 9
+  Color: white
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:38:00.074117 #6346]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-15T16:38:00.075603 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:37:56 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56c1b18c340ac_18ca50178ea7051b@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: red
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:38:05.100489 #6346]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-15T16:38:05.102010 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:38:01 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56c1b191a0a0e_18ca50178ea70614@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: green
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:38:10.240385 #6346]  INFO -- : sending email to : vijaycho3@yopmail.com
+I, [2016-02-15T16:38:10.241941 #6346]  INFO -- : BODY: Date: Mon, 15 Feb 2016 16:38:06 +0530
+From: from@example.com
+To: vijaycho3@yopmail.com
+Message-ID: <56c1b196a4019_18ca50178ea70727@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test3 3secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: green
+  Last Servicing Date: 
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T16:40:02.070313 #6932]  INFO -- : BODY:test
+I, [2016-02-15T16:44:01.509477 #7143]  INFO -- : BODY:test
+I, [2016-02-15T16:50:01.929999 #7796]  INFO -- : BODY:test
+I, [2016-02-15T16:51:56.357666 #7821]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T16:53:31.405863 #7883]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T16:58:09.421048 #7995]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T17:01:41.524825 #8151]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T17:02:48.869567 #8170]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T17:10:01.388540 #8543]  INFO -- : BODY:test
+I, [2016-02-15T17:12:17.669388 #8732]  INFO -- : BODY:test
+I, [2016-02-15T17:15:36.202135 #8732]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T17:15:36.203620 #8732]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:15:32 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1ba5c5d1d0_221c47498ee634a3@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:39:01.843774 #9347]  INFO -- : BODY:test
+I, [2016-02-15T17:39:05.945721 #9347]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T17:39:05.947246 #9347]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:39:02 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1bfde1f082_248342b18ea60227@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:39:10.148492 #9347]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-15T17:39:10.150085 #9347]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:39:05 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56c1bfe1ecdb4_248342b18ea603cb@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:39:13.870241 #9347]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-15T17:39:13.871745 #9347]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:39:10 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56c1bfe62c300_248342b18ea604cc@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:39:17.532076 #9347]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T17:39:17.533614 #9347]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:39:13 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1bfe9d97b6_248342b18ea605be@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: red
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:39:21.289824 #9347]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T17:39:21.291321 #9347]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:39:17 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1bfed87438_248342b18ea6061b@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: green
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:49:01.665043 #9623]  INFO -- : BODY:test
+I, [2016-02-15T17:49:05.383023 #9623]  INFO -- : sending email to : vijaycho0@yopmail.com
+I, [2016-02-15T17:49:05.384572 #9623]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:49:01 +0530
+From: from@example.com
+To: vijaycho0@yopmail.com
+Message-ID: <56c1c235cea56_259742b18ea60253@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test0 0secomd,
+
+<p>We would like to inform you that your car model: model 0 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 0
+  Color: white
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:49:09.119669 #9623]  INFO -- : sending email to : vijaycho2@yopmail.com
+I, [2016-02-15T17:49:09.121192 #9623]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:49:05 +0530
+From: from@example.com
+To: vijaycho2@yopmail.com
+Message-ID: <56c1c23961f89_259742b18ea60379@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test2 2secomd,
+
+<p>We would like to inform you that your car model: model 4 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 4
+  Color: green
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:49:12.744153 #9623]  INFO -- : sending email to : vijaycho4@yopmail.com
+I, [2016-02-15T17:49:12.745860 #9623]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:49:09 +0530
+From: from@example.com
+To: vijaycho4@yopmail.com
+Message-ID: <56c1c23d1fe8a_259742b18ea6043@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test4 4secomd,
+
+<p>We would like to inform you that your car model: model 1 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 1
+  Color: red
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:49:16.322042 #9623]  INFO -- : sending email to : vijaycho5@yopmail.com
+I, [2016-02-15T17:49:16.323600 #9623]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:49:12 +0530
+From: from@example.com
+To: vijaycho5@yopmail.com
+Message-ID: <56c1c240b8505_259742b18ea605fe@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test5 5secomd,
+
+<p>We would like to inform you that your car model: model 2 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 2
+  Color: red
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:49:20.017063 #9623]  INFO -- : sending email to : vijaycho7@yopmail.com
+I, [2016-02-15T17:49:20.018640 #9623]  INFO -- : BODY: Date: Mon, 15 Feb 2016 17:49:16 +0530
+From: from@example.com
+To: vijaycho7@yopmail.com
+Message-ID: <56c1c244533bd_259742b18ea606c@ubuntu.mail>
+Subject: Next Servicing Notification
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    Hello test7 7secomd,
+
+<p>We would like to inform you that your car model: model 7 is due for next servicing<p>
+
+<p> Car details:</p>
+<pre>
+  Model: model 7
+  Color: green
+  Last Servicing Date: 2016-01-16
+</pre>
+
+--
+Thanks
+  </body>
+</html>
+
+I, [2016-02-15T17:51:27.149608 #9664]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T17:51:27.179827 #9662]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T09:56:15.447931 #11360]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T09:56:42.978442 #8524]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T09:57:30.090725 #10536]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T10:02:06.946984 #716]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T10:03:58.965903 #2748]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T10:04:25.965561 #11288]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T10:11:58.174091 #9768]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T10:12:20.082030 #11828]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T10:13:00.143590 #11332]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T12:50:03.133534 #11212]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T12:50:29.043503 #6228]  INFO -- : start EMAIL_LOGGER logger
+I, [2016-02-15T12:51:15.099260 #10984]  INFO -- : start EMAIL_LOGGER logger
